@@ -357,7 +357,7 @@ html {
   min-height: inherit;
 }
 .name__heading{
-  color: red;
+  color: #1f1f24;
   font-size: 80px;
   font-weight: 900;
   margin-bottom: 10px;
